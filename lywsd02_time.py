@@ -6,7 +6,8 @@ import struct
 from bluepy import btle
 
 # MAC address of LYWSD02
-mac_addr = 'E7:2E:01:72:50:0C'
+mac_addr = '3F:59:C8:81:XX:XX'
+
 
 # UUIDs
 uuid_time = 'ebe0ccb7-7a0a-4b0c-8a1a-6ff2997da3a6'
